@@ -20,7 +20,7 @@
 * Sign-up screen✨ 
 * Logout screen✨ 
 * Forgot password screen✨
-* Landign screen✨
+* Landing screen✨
 * UX/Alerts✨
 * Axios✨
 * Backend✨
